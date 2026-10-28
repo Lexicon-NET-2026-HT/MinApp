@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MinApp.Tests/MinApp.Tests.csproj" />
+  <Project Path="MinApp/MinApp.csproj" />
+</Solution>
